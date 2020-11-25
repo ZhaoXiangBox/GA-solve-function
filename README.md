@@ -33,3 +33,4 @@ g++ GA_main.cpp      # 如果编码成功，则继续执行下有一步骤
 ![](./pictures/run_result_show.png)# GA-solve-functions
 # GA-solve-function
 # GA-solve-function
+# GA-solve-function
